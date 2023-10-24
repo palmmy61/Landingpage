@@ -1,0 +1,47 @@
+.title-image{
+  margin-left: 10%;
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+.daisy{
+  margin: 0 20%;
+
+}
+
+.tulipback{
+  margin: 0 20%;
+
+}
+.row{
+  margin-left: 20%;
+  margin-top: 5%;
+}
+
+h1 {
+  font-family: 'Times New Roman', serif;
+  font-size: 4.5rem;
+  line-height: 1.5;
+  font-weight: medium;
+}
+
+
+h2 {
+  font-family: 'Times New Roman', serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: medium;
+}
+.download-button {
+  margin: 5% 3% 5% 0;
+  font-family: 'Times New Roman', serif;
+}
+
+.logo{
+  height: 250px;
+  width: 250px;
+}
+
+.container-fluid{
+    margin: 0 10px;
+}
